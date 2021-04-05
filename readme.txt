@@ -1,4 +1,6 @@
 Replication files for "On the Emergence of a Power Law in the Distribution of COVID-19 Cases"
+Physica D 412:132649 (2020)
+https://doi.org/10.1016/j.physd.2020.132649
 by Brendan K. Beare and Alexis Akira Toda
 
 Confirmed to run with Matlab 2019b
